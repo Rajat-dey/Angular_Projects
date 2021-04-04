@@ -1,0 +1,111 @@
+.mat-button-toggle {
+    width: 176px;
+    height: 46px;
+    background-color: #ffffff;
+  }
+
+  .mat-button-toggle-checked {
+    background-color: #f1bf5e;
+    color: #ffffff;
+
+  }
+
+  .line {
+    width: 764px;
+    height: 1px;
+    /* margin: 45px 19px 59px 0; */
+    border: solid 1px #d8dfea;
+    background-color: #ebe2d3;
+  }
+
+  .Newsletter h1 {
+    width: 358px;
+    height: 108px;
+    margin: 59px 34px 63px 0;
+    font-family: OpenSans;
+    font-size: 28px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #344443;
+  }
+
+  .mat-form-field {
+    width: 372px;
+    height: 60px;
+    background-color: #ffffff;
+    margin: 60px 19px 20px 34px;
+    /* padding: 20px 272px 20px 20px; */
+
+  }
+
+  p {
+    font-family: OpenSans;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #122a2d;
+  }
+
+
+
+
+  button.mat-stroked-button {
+    width: 372px;
+    height: 60px;
+    margin: 0 19px 30px 34px;
+    /* padding: 18px 142px; */
+    border-radius: 30px;
+    background-color: #6dc0b0;
+    font-family: OpenSans;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+
+.h1 {
+    width: 358px;
+    height: 108px;
+    margin: 59px 34px 63px 0;
+    font-family: OpenSans;
+    font-size: 28px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    color: #344443;
+  }
+  .newsletter-bg {
+    width: 373px;
+    height: 270px;
+    /* margin: 45px 0 70px 150px; */
+    margin-left: 120px;
+    object-fit: contain;
+  }
+
+
+  #termsandCondition p{
+        width: 326px;
+        height: 14px;
+        margin: 0 42px 25px 57px;
+        font-family: OpenSans;
+        font-size: 10px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: #344443;
+  }
